@@ -1,0 +1,4 @@
+What is my name?,Roshan
+What is my country?,Sri lanka
+What is my city?,Kandy
+What is my college?,SLIIT
